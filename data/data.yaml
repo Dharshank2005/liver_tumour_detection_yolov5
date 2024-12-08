@@ -1,0 +1,5 @@
+train: dataset\train  # Relative path to training images
+val: dataset\val      # Relative path to validation images
+
+nc: 2
+names: ['malignant', 'benign']
